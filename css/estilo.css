@@ -1,0 +1,160 @@
+#contenedor{
+    width: 900px;
+    height: 900px;
+    background-color: azure;
+    margin: auto;
+}
+#oreja1{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    background-color: chocolate;
+    margin: auto;
+    position: relative;
+    display: inline-block;
+    left: 230px;
+}
+#orf{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: auto;
+    position: relative;
+    top: 55px;
+    background-color: plum;
+}
+#oreja2{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    background-color: chocolate;
+    margin: auto;
+    position: relative;
+    display: inline-block;
+    left: 400px;
+}
+#cabeza{
+    width: 400px;
+    height: 400px;
+    border-radius: 400px;
+    background-color: chocolate;
+    margin: auto;
+    position: relative;
+    bottom: 90px;
+}
+#ojo1{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: bisque;
+    margin: auto;
+    position: relative;
+    display: inline-block;
+    top: 100px;
+    left: 100px;
+}
+#ojo2{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: bisque;
+    margin: auto;
+    position: relative;
+    display: inline-block;
+    top: 100px;
+    left: 100px;
+}
+#pupila{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: black;
+    margin: auto;
+    position: relative;
+    top: 50px;
+    left: 0px;
+}
+#nariz{
+    width: 100px;
+    height: 60px;
+    background-color: black;
+    border-radius: 100px;
+    left: 0px;
+    top: 100px;
+    margin: auto;
+    position: relative;
+}
+#boca{
+    width: 120px;
+    height: 20px;
+    background-color: black;
+    border-radius: 40px;
+    margin: auto;
+    position: relative;
+    top: 130px;
+}
+#cuerpo{
+    width: 600px;
+    height: 600px;
+    background-color: chocolate;
+    border-radius: 600px;
+    margin: auto;
+    position: relative; 
+    bottom: 130px;
+}
+#panza{
+    width: 500px;
+    height: 500px;
+    background-color: coral;
+    border-radius: 500px;
+    margin: auto;
+    position: relative;
+    top: 50px;
+}
+#brazo1{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    background-color: chocolate;
+    margin: auto;
+    position: relative;
+    display: inline-block;
+    left: 400px;
+}
+#brazo2{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    background-color: chocolate;
+    margin: auto;
+    position: relative;
+    display: inline-block;
+    right: 100px;
+}
+
+
+#pie{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    background-color: chocolate;
+    margin: auto;
+    position: relative;
+    display: inline-block;
+    left: 200px;
+    bottom: 400px;
+}
+#pie2
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    background-color: chocolate;
+    margin: auto;
+    position: relative;
+    display: inline-block;
+    right: 100px;
+    bottom: 500px;
+}
+
+
